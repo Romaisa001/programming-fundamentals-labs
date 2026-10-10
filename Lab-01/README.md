@@ -1,0 +1,1 @@
+This folder contains programming Fundamentals Lab 01 tasks and C+- source code.
